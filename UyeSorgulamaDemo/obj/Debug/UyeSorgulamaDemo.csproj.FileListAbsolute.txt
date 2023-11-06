@@ -1,0 +1,14 @@
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\bin\Debug\UyeSorgulamaDemo.exe.config
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\bin\Debug\UyeSorgulamaDemo.exe
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\bin\Debug\UyeSorgulamaDemo.pdb
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.csproj.AssemblyReference.cache
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.Form1.resources
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.Properties.Resources.resources
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.csproj.GenerateResource.cache
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.csproj.CoreCompileInputs.cache
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.exe
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.pdb
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\basak\source\repos\formİzto\UyeSorgulamaDemo\obj\Debug\UyeSorgulamaDemo.csproj.CopyComplete

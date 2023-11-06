@@ -1,0 +1,11 @@
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\bin\Debug\UyeEklemeDemo.exe.config
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\bin\Debug\UyeEklemeDemo.exe
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\bin\Debug\UyeEklemeDemo.pdb
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.csproj.AssemblyReference.cache
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.Properties.Resources.resources
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.csproj.GenerateResource.cache
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.csproj.CoreCompileInputs.cache
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.exe
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.pdb
+C:\Users\basak\source\repos\formİzto\UyeEklemeDemo\obj\Debug\UyeEklemeDemo.FormWithAdd.resources

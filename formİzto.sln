@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UyeSorgulamaDemo", "UyeSorgulamaDemo\UyeSorgulamaDemo.csproj", "{FCB1B20D-B4D4-4F1D-AC04-DDAEFBCFE10F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UyeEklemeDemo", "UyeEklemeDemo\UyeEklemeDemo.csproj", "{51D8E6D7-0B00-44CE-A23A-1BB1B5C0326A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D30841D0-1354-4AD8-88C4-0A35668AA840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB1B20D-B4D4-4F1D-AC04-DDAEFBCFE10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB1B20D-B4D4-4F1D-AC04-DDAEFBCFE10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB1B20D-B4D4-4F1D-AC04-DDAEFBCFE10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB1B20D-B4D4-4F1D-AC04-DDAEFBCFE10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D8E6D7-0B00-44CE-A23A-1BB1B5C0326A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D8E6D7-0B00-44CE-A23A-1BB1B5C0326A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D8E6D7-0B00-44CE-A23A-1BB1B5C0326A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D8E6D7-0B00-44CE-A23A-1BB1B5C0326A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B7F6DD-601B-403A-B49C-FA65B96D00CE}
+	EndGlobalSection
+EndGlobal
